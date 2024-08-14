@@ -22,4 +22,4 @@ logging.interceptor.enabled=true
 logging.interceptor.level=INFO
 ```
 Пример подключения стартера и какие логи получились, 
-можно посмотреть в мр https://github.com/ljbjkgyguoj/logging-service/pull/1
+можно посмотреть в мр https://github.com/ljbjkgyguoj/logging-service/pull/1/files
